@@ -73,6 +73,7 @@ body {
 
 .id {
   color: rgb(22, 119, 210);
+  overflow-wrap: break-word;
 }
 
 .modalbox {
